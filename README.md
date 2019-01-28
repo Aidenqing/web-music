@@ -30,16 +30,17 @@
 
 ## 项目截图
 
-![image](https://raw.githubusercontent.com/hyy520/vue2-music/master/static/1.png)
+![image](https://raw.githubusercontent.com/Aidenqing/vue2-music/master/static/1.png)
 
-![image](https://raw.githubusercontent.com/hyy520/vue2-music/master/static/2.png)
+![image](https://raw.githubusercontent.com/Aidenqing/vue2-music/master/static/2.png)
 
-![image](https://raw.githubusercontent.com/hyy520/vue2-music/master/static/3.png)
+![image](https://raw.githubusercontent.com/Aidenqing/vue2-music/master/static/3.png)
 
-![image](https://raw.githubusercontent.com/hyy520/vue2-music/master/static/4.png)
+![image](https://raw.githubusercontent.com/Aidenqing/vue2-music/master/static/4.png)
 
-![image](https://raw.githubusercontent.com/hyy520/vue2-music/master/static/5.png)
+![image](https://raw.githubusercontent.com/Aidenqing/vue2-music/master/static/5.png)
 
+![image](https://raw.githubusercontent.com/Aidenqing/vue2-music/master/static/7.png)
 
 ## Build Setup
 
