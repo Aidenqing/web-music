@@ -12,35 +12,21 @@
 > 源码：es6
 
 
-# 13个可以用在平时工作中的基础组件
-1.confirm：确认对话框组件
-2.listview：通讯录列表组件
-3.loading：加载态组件
-4.no-result：无结果展示组件
-5.progress-bar：进度条组件
-6.progress-circle：圆形进度条组件
-7.scroll：移动端滚动组件
-8.search-box：搜索框组件
-9.search-list：搜索列表组件
-10.slider：轮播图组件
-11.switches：开关切换组件
-12.top-tip：顶部消息提示组件
-13. song-list：歌曲列表组件
 
 
 ## 项目截图
 
-![image](https://raw.githubusercontent.com/Aidenqing/vue2-music/master/static/1.png)
+![image](https://raw.githubusercontent.com/Aidenqing/web-music/master/static/1.png)
 
-![image](https://raw.githubusercontent.com/Aidenqing/vue2-music/master/static/2.png)
+![image](https://raw.githubusercontent.com/Aidenqing/web-music/master/static/2.png)
 
-![image](https://raw.githubusercontent.com/Aidenqing/vue2-music/master/static/3.png)
+![image](https://raw.githubusercontent.com/Aidenqing/web-music/master/static/3.png)
 
-![image](https://raw.githubusercontent.com/Aidenqing/vue2-music/master/static/4.png)
+![image](https://raw.githubusercontent.com/Aidenqing/web-music/master/static/4.png)
 
-![image](https://raw.githubusercontent.com/Aidenqing/vue2-music/master/static/5.png)
+![image](https://raw.githubusercontent.com/Aidenqing/web-music/master/static/5.png)
 
-![image](https://raw.githubusercontent.com/Aidenqing/vue2-music/master/static/7.png)
+![image](https://raw.githubusercontent.com/Aidenqing/web-music/master/static/7.png)
 
 ## Build Setup
 
