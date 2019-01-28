@@ -1,6 +1,7 @@
 # vue-music
 
 > Vue.js 打造高级实战——音乐 App
+>项目测试地址：http://test.yongdd.com
 
 # 在项目中实战Vue.js技术栈：
 > MVVM框架：Vue.js （版本2.x）
