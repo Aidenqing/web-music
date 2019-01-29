@@ -1,7 +1,10 @@
 # vue-music
 
+
+
 > Vue.js 打造高级实战——音乐 App
 >项目测试地址：http://test.yongdd.com
+
 
 # 在项目中实战Vue.js技术栈：
 > MVVM框架：Vue.js （版本2.x）
@@ -11,6 +14,9 @@
 > 移动端滚动库：better-scroll
 > 构建工具：webpack 2.0
 > 源码：es6
+
+
+>感谢HuangYi老师
 
 
 
